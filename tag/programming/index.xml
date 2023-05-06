@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming | Mingyang Xu</title>
+    <link>https://mingyangxu.netlify.app/tag/programming/</link>
+      <atom:link href="https://mingyangxu.netlify.app/tag/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Mar 2023 04:16:37 +0000</lastBuildDate>
+    <image>
+      <url>https://mingyangxu.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Programming</title>
+      <link>https://mingyangxu.netlify.app/tag/programming/</link>
+    </image>
+    
+    <item>
+      <title>Ankle-assist Robot with Gait-adaptive Control Method</title>
+      <link>https://mingyangxu.netlify.app/project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/</link>
+      <pubDate>Wed, 15 Mar 2023 04:16:37 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/re1_hu30934fcd6595e064cfa40c422f24395a_2070850_5a7b0eec398f255ca8f7476a0451f22f.webp 400w,
+               /project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/re1_hu30934fcd6595e064cfa40c422f24395a_2070850_58aa461f41c950739cd76561da329177.webp 760w,
+               /project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/re1_hu30934fcd6595e064cfa40c422f24395a_2070850_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/re1_hu30934fcd6595e064cfa40c422f24395a_2070850_5a7b0eec398f255ca8f7476a0451f22f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;422&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;As the population ages, the number of elderly people suffering from systemic diseases such as stroke increases. To address this problem, various wearable walking assistive robots have been developed to promote physical exercise for stroke prevention. Wearable assistive robots have shown the ability to improve human mobility. However, most of these robots are heavy, bulky, and impractical. &lt;strong&gt;In this study, we developed a compact ankle assistive robot for elderly users to promote walking exercise.&lt;/strong&gt; By informing the user of correct motion and timing, the robot can guide the user to achieve a healthy gait by only assisting their ankle joint. The robot provides faster-than-ankle motion to allow the user to feel supported while walking. Users can adjust the robot’s assistance parameters through a graphical user interface (GUI) according to their demands. Furthermore, &lt;strong&gt;we proposed a gait-adaptive method for ankle assistive robots to adapt to the user’s changing gait.&lt;/strong&gt; Hence, the robot can automatically adjust the parameters to provide more accurate walking assistance. Finally, the results of an evaluation experiment demonstrated the positive feasibility of human gait adaptation. The proposed methods have the advantages of low cost and easy implementation.&lt;/p&gt;
+&lt;h1 id=&#34;demo&#34;&gt;D﻿emo&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-robot-operates-in-normal-mode-the-robot-provides-constant-walking-assistance-to-the-user&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Robot operates in normal mode, the robot provides constant walking assistance to the user&#34;
+           src=&#34;https://mingyangxu.netlify.app/project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/REGIF1.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Robot operates in normal mode, the robot provides constant walking assistance to the user
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-robot-operates-in-gait-adaptive-mode-the-robot-adjusts-the-assistance-automatically-to-adapt-to-the-users-changing-gait&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Robot operates in gait-adaptive mode, the robot adjusts the assistance automatically to adapt to the user’s changing gait&#34;
+           src=&#34;https://mingyangxu.netlify.app/project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/REGIF2.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Robot operates in gait-adaptive mode, the robot adjusts the assistance automatically to adapt to the user’s changing gait
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-users-can-adjust-the-assistance-mode-and-assistance-parameter-by-the-developed-gui&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Users can adjust the assistance mode and assistance parameter by the developed GUI&#34;
+           src=&#34;https://mingyangxu.netlify.app/project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/GUI1.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Users can adjust the assistance mode and assistance parameter by the developed GUI
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;related-publications&#34;&gt;R﻿elated Publications&lt;/h1&gt;
+&lt;p&gt;[1] &lt;strong&gt;M. Xu&lt;/strong&gt;, Y. Hua, Y. Li, J. Zhuang, K. Osawa, K. Nakagawa, H. Lee, L. Yuge, E. Tanaka, “Development of an Ankle Assistive Robot with Instantly Gait-Adaptive Method,” in &lt;em&gt;Journal of Robotics and Mechatronics (JRM)&lt;/em&gt;, 2023. (Accepted)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Control Method for Walking Assistive Robot Based on Emotion and Fatigue Detection</title>
+      <link>https://mingyangxu.netlify.app/project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/</link>
+      <pubDate>Sat, 10 Sep 2022 04:05:58 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as1_huc7686695b4c9d35c96d368554cd83de8_619596_82af4f180165d1a29568a833818772da.webp 400w,
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as1_huc7686695b4c9d35c96d368554cd83de8_619596_b22898189fdc5430f88dbc4bd959283b.webp 760w,
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as1_huc7686695b4c9d35c96d368554cd83de8_619596_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as1_huc7686695b4c9d35c96d368554cd83de8_619596_82af4f180165d1a29568a833818772da.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;423&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;The purpose of this study is to develop a control system for walking assistive robot that enables the user to keep positive emotions and maintain high levels of motivation during exercise.&lt;/strong&gt; In this study, a control method based on emotion recognition and fatigue detection was proposed. We used &lt;strong&gt;brainwave and heartbeat signals&lt;/strong&gt; to train a deep neural network (DNN) model to recognize users’ emotions. &lt;strong&gt;Portable near-infrared spectroscopy (NIRS)&lt;/strong&gt; was used to detect muscle fatigue. Furthermore, we established a 3D human state model to evaluate the user’s emotional and fatigue states. We also performed experiments to evaluate the ability of the control method to improve the effect of walking exercise.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-control-process-of-the-walking-assistive-system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Control process of the walking assistive system&#34; srcset=&#34;
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as2_hue9dfd38e01b8353183f2422edb1680bc_1537899_e3a1d109c6afb6dbe1cc9ed0bf824252.webp 400w,
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as2_hue9dfd38e01b8353183f2422edb1680bc_1537899_5512c8816e0ab0750aede674979739db.webp 760w,
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as2_hue9dfd38e01b8353183f2422edb1680bc_1537899_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as2_hue9dfd38e01b8353183f2422edb1680bc_1537899_e3a1d109c6afb6dbe1cc9ed0bf824252.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Control process of the walking assistive system
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-flow-diagram-of-the-real-time-emotion-recognition-system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Flow diagram of the real-time emotion recognition system&#34; srcset=&#34;
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as3_hu168ce9fbbeafdc7a27efb5d95184ef30_1006565_1e9d5f7e186b31cbee44310b205d445e.webp 400w,
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as3_hu168ce9fbbeafdc7a27efb5d95184ef30_1006565_b2222b078a55d5c443898e16d799935a.webp 760w,
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as3_hu168ce9fbbeafdc7a27efb5d95184ef30_1006565_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as3_hu168ce9fbbeafdc7a27efb5d95184ef30_1006565_1e9d5f7e186b31cbee44310b205d445e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;282&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Flow diagram of the real-time emotion recognition system
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;related-publications&#34;&gt;Related Publications:&lt;/h1&gt;
+&lt;p&gt;[1] Y. Li, &lt;strong&gt;M. Xu&lt;/strong&gt;, K. Osawa, E. Tanaka, “A Control Method for Walking Assistance Robot Considering Emotion and Body Condition,” in JSME-IIP/ASME-ISPS Joint International Conference on Micromechatronics for Information and Precision Equipment (MIPE 2022), A1-1-03, 2022.&lt;/p&gt;
+&lt;p&gt;[2] Y. Wei, Y. Li, &lt;strong&gt;M. Xu&lt;/strong&gt;, Y. Gong, K. Osawa, E. Tanaka, “A Real-Time and Two-Dimensional Emotion Recognition System Based on EEG and HRV Using Machine Learning,” in IEEE/SICE International Symposium on System Integrations (SII 2023), Atlanta, GA, USA, 2023, pp. 1-6.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Base Management System for Components Selection (Chinese)</title>
+      <link>https://mingyangxu.netlify.app/project/knowledge-base-management-system-for-components-selection/</link>
+      <pubDate>Sat, 20 May 2017 04:23:55 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/project/knowledge-base-management-system-for-components-selection/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Members:&lt;/strong&gt; Mingyang Xu&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Guijiang Duan&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;In this project, a knowledge base management system for components selection was designed. In addition, we tried out the functions of case-based reasoning, such as knowledge-base case searching, case distance estimation and case matching to realize intelligent component troubleshooting.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/knowledge-base-management-system-for-components-selection/co1_hu6b1706c0cc55597ece25ffd993428581_592853_d7ba066a1b9ed42e4ad8336bc92bc494.webp 400w,
+               /project/knowledge-base-management-system-for-components-selection/co1_hu6b1706c0cc55597ece25ffd993428581_592853_7a051a59f72873071bc2a7d374c007eb.webp 760w,
+               /project/knowledge-base-management-system-for-components-selection/co1_hu6b1706c0cc55597ece25ffd993428581_592853_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/knowledge-base-management-system-for-components-selection/co1_hu6b1706c0cc55597ece25ffd993428581_592853_d7ba066a1b9ed42e4ad8336bc92bc494.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;684&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

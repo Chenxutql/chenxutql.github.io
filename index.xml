@@ -1,533 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <title>Mingyang Xu</title>
+    <link>https://mingyangxu.netlify.app/</link>
+      <atom:link href="https://mingyangxu.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mingyang Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Apr 2023 04:51:58 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
-      <link>https://example.com/</link>
+      <url>https://mingyangxu.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Mingyang Xu</title>
+      <link>https://mingyangxu.netlify.app/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomsponsor&#34;&gt;&lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Writing technical content in Markdown</title>
-      <link>https://example.com/post/writing-technical-content/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
-      <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the &lt;code&gt;syntax_highlighter&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;mindmaps&#34;&gt;Mindmaps&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports a Markdown extension for mindmaps.&lt;/p&gt;
-&lt;p&gt;Simply insert a Markdown &lt;code&gt;markmap&lt;/code&gt; code block and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
-&lt;p&gt;A simple mindmap defined as a Markdown list:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap {height=&#34;200px&#34;}
-- Hugo Modules
-  - wowchemy
-  - wowchemy-plugins-netlify
-  - wowchemy-plugins-netlify-cms
-  - wowchemy-plugins-reveal
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
-
-&lt;pre&gt;- Hugo Modules
-  - wowchemy
-  - wowchemy-plugins-netlify
-  - wowchemy-plugins-netlify-cms
-  - wowchemy-plugins-reveal&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;A more advanced mindmap with formatting, code blocks, and math:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap
-- Mindmaps
-  - Links
-    - [Wowchemy Docs](https://wowchemy.com/docs/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log(&#39;hello&#39;);
-      console.log(&#39;code block&#39;);
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 500px;&#34;&gt;
-
-&lt;pre&gt;- Mindmaps
-  - Links
-    - [Wowchemy Docs](https://wowchemy.com/docs/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log(&#39;hello&#39;);
-      console.log(&#39;code block&#39;);
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&#34;charts&#34;&gt;Charts&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; format for interactive charts.&lt;/p&gt;
-&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
-&lt;p&gt;Demo:&lt;/p&gt;
-
-
-
-
-&lt;div id=&#34;chart-526348197&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-  (function() {
-    let a = setInterval( function() {
-      if ( typeof window.Plotly === &#39;undefined&#39; ) {
-        return;
-      }
-      clearInterval( a );
-
-      Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-526348197&#39;, chart.data, chart.layout, {responsive: true});
-      });
-    }, 500 );
-  })();
-&lt;/script&gt;
-
-&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
-&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
-&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, respectively. (We wrap the LaTeX math in the Wowchemy &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown. The &lt;em&gt;math&lt;/em&gt; shortcode is new in v5.5-dev.)&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-
-
-
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-
-&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; renders as 
-
-$\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-
-
-
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
-1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
-$$
-
-
-&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
-&lt;p&gt;Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;graph TD
-A[Hard] --&gt;|Text| B(Round)
-B --&gt; C{Decision}
-C --&gt;|One| D[Result 1]
-C --&gt;|Two| E[Result 2]
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
-Alice-&gt;&gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&gt;&gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&gt;&gt;Alice: Great!
-John-&gt;&gt;Bob: How about you?
-Bob--&gt;&gt;John: Jolly good!
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 &amp;lt;--&amp;gt; C2: Cool label
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;classDiagram
-Class01 &lt;|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --&gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 &lt;--&gt; C2: Cool label
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;stateDiagram
-[*] --&gt; Still
-Still --&gt; [*]
-Still --&gt; Moving
-Moving --&gt; Still
-Moving --&gt; Crash
-Crash --&gt; [*]
-&lt;/div&gt;
-&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
-&lt;p&gt;You can even write your todo lists in Markdown too:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write math example
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write diagram example
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; Do something else
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
-&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-&lt;table class=&#34;table&#34;&gt;
-  
-    
-    
-    &lt;tr&gt;  &lt;th&gt;customer_id&lt;/th&gt;  &lt;th&gt;score&lt;/th&gt;  &lt;/tr&gt;
-  
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;0&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;2&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;0.5&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;3&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-  
-    &lt;caption&gt;Table 1: My results&lt;/caption&gt;
-  
-&lt;/table&gt;
-
-&lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
-&lt;p&gt;Academic supports a &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for callouts&lt;/a&gt;, also referred to as &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /callout %}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
-&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Click to view the spoiler&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
-  &lt;summary&gt;Click to view the spoiler&lt;/summary&gt;
-  &lt;p&gt;You found me!&lt;/p&gt;
-&lt;/details&gt;
-&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
-&lt;p&gt;Academic enables you to use a wide range of &lt;a href=&#34;https://wowchemy.com/docs/getting-started/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;terminal&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fas&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} Terminal  
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} Python  
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;r-project&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} R
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+      <title>Wind Orchestra and Marching Band</title>
+      <link>https://mingyangxu.netlify.app/post/wind-symphony-and-marching-band-of-beihang-university/</link>
+      <pubDate>Tue, 11 Apr 2023 04:51:58 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/post/wind-symphony-and-marching-band-of-beihang-university/</guid>
+      <description>&lt;p&gt;Out of my love for music, I have been studying classical saxophone for more than 15 years and was a saxophonist in &lt;strong&gt;Zengguang Philharmonic Wind Orchestra&lt;/strong&gt; (Dec. 2018 - Aug. 2019) and &lt;strong&gt;Wind Orchestra and Marching Band of Beihang University&lt;/strong&gt; (Sep. 2015 - Jun. 2019).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;One band, one sound, one family.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Years of experience in the orchestra not only made me gain valuable friendship, but also cultivated my spirit of cooperation. &lt;strong&gt;I am very grateful for my time in the bands.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
-
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
-
-  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://example.com/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/jupyter/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
 
 
 
@@ -545,47 +40,1009 @@ Crash --&gt; [*]
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind1_huab59712d76532083f72b077dc00aff2c_14549140_edada0bd4f3707936157bac7d6afa553.webp 400w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind1_huab59712d76532083f72b077dc00aff2c_14549140_3d6c368ef0f6944b120cdfe396d43a92.webp 760w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind1_huab59712d76532083f72b077dc00aff2c_14549140_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/post/wind-symphony-and-marching-band-of-beihang-university/wind1_huab59712d76532083f72b077dc00aff2c_14549140_edada0bd4f3707936157bac7d6afa553.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Welcome to Academic!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter lab index.ipynb
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title: My post&amp;#39;s title
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;date: 2019-09-01
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Put any other Academic metadata here...
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/wind-symphony-and-marching-band-of-beihang-university/1_hu6771290f3193a6f265e4e4ebf481485e_3802762_7422aa9859d8ba09d05ed723b6d98252.webp 400w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/1_hu6771290f3193a6f265e4e4ebf481485e_3802762_f82a21cd4c82fad69ddebcba72d96b7a.webp 760w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/1_hu6771290f3193a6f265e4e4ebf481485e_3802762_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/post/wind-symphony-and-marching-band-of-beihang-university/1_hu6771290f3193a6f265e4e4ebf481485e_3802762_7422aa9859d8ba09d05ed723b6d98252.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind2_hud55a62f263aca740fc08c7c1a08ca8e7_8262635_941961e03704765e15fba3c352572d30.webp 400w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind2_hud55a62f263aca740fc08c7c1a08ca8e7_8262635_47495758cb1fc00682883ea66bde54b9.webp 760w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind2_hud55a62f263aca740fc08c7c1a08ca8e7_8262635_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/post/wind-symphony-and-marching-band-of-beihang-university/wind2_hud55a62f263aca740fc08c7c1a08ca8e7_8262635_941961e03704765e15fba3c352572d30.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind3_hu77a200f58831d0e8c4d291c5cfde28e0_9707679_46da846e85aab59a2ba70a0ee4843e51.webp 400w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind3_hu77a200f58831d0e8c4d291c5cfde28e0_9707679_c6d32565e4116dd1dc509afa57477c87.webp 760w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind3_hu77a200f58831d0e8c4d291c5cfde28e0_9707679_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/post/wind-symphony-and-marching-band-of-beihang-university/wind3_hu77a200f58831d0e8c4d291c5cfde28e0_9707679_46da846e85aab59a2ba70a0ee4843e51.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind4_hu7dac8983433d894db8dc0df9ee562e7c_539897_c7acb67503a8d9572633679f8acc7a07.webp 400w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind4_hu7dac8983433d894db8dc0df9ee562e7c_539897_39392cf57aefe20e9936edb7d0abc395.webp 760w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind4_hu7dac8983433d894db8dc0df9ee562e7c_539897_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/post/wind-symphony-and-marching-band-of-beihang-university/wind4_hu7dac8983433d894db8dc0df9ee562e7c_539897_c7acb67503a8d9572633679f8acc7a07.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;508&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind5_huaec929f14b99c98afdc7a898047b3b4a_1003049_45f9930aa380b5dc0db9f395df627f38.webp 400w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind5_huaec929f14b99c98afdc7a898047b3b4a_1003049_9527d411449e293ab0a3a10218673b68.webp 760w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind5_huaec929f14b99c98afdc7a898047b3b4a_1003049_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/post/wind-symphony-and-marching-band-of-beihang-university/wind5_huaec929f14b99c98afdc7a898047b3b4a_1003049_45f9930aa380b5dc0db9f395df627f38.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;416&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind6_huca45ee4f3d3c9fa28eb28114ac9d5689_2641235_749b8cba37156076526fe9acf0fdfdd7.webp 400w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind6_huca45ee4f3d3c9fa28eb28114ac9d5689_2641235_69331e75fb545bb7e08efba733e9a3a8.webp 760w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind6_huca45ee4f3d3c9fa28eb28114ac9d5689_2641235_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/post/wind-symphony-and-marching-band-of-beihang-university/wind6_huca45ee4f3d3c9fa28eb28114ac9d5689_2641235_749b8cba37156076526fe9acf0fdfdd7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind7_hu95e5d097da781ff6b5182ec359186efa_3175775_a9e2268ecd20933d324ff1b919600660.webp 400w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind7_hu95e5d097da781ff6b5182ec359186efa_3175775_35398c8960a7153312f43c8f0544ab58.webp 760w,
+               /post/wind-symphony-and-marching-band-of-beihang-university/wind7_hu95e5d097da781ff6b5182ec359186efa_3175775_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/post/wind-symphony-and-marching-band-of-beihang-university/wind7_hu95e5d097da781ff6b5182ec359186efa_3175775_a9e2268ecd20933d324ff1b919600660.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;572&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development of an Ankle Assistive Robot with Instantly Gait-Adaptive Method</title>
+      <link>https://mingyangxu.netlify.app/publication/1111111111/</link>
+      <pubDate>Tue, 11 Apr 2023 04:37:12 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/publication/1111111111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ankle-assist Robot with Gait-adaptive Control Method</title>
+      <link>https://mingyangxu.netlify.app/project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/</link>
+      <pubDate>Wed, 15 Mar 2023 04:16:37 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/re1_hu30934fcd6595e064cfa40c422f24395a_2070850_5a7b0eec398f255ca8f7476a0451f22f.webp 400w,
+               /project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/re1_hu30934fcd6595e064cfa40c422f24395a_2070850_58aa461f41c950739cd76561da329177.webp 760w,
+               /project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/re1_hu30934fcd6595e064cfa40c422f24395a_2070850_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/re1_hu30934fcd6595e064cfa40c422f24395a_2070850_5a7b0eec398f255ca8f7476a0451f22f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;422&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;As the population ages, the number of elderly people suffering from systemic diseases such as stroke increases. To address this problem, various wearable walking assistive robots have been developed to promote physical exercise for stroke prevention. Wearable assistive robots have shown the ability to improve human mobility. However, most of these robots are heavy, bulky, and impractical. &lt;strong&gt;In this study, we developed a compact ankle assistive robot for elderly users to promote walking exercise.&lt;/strong&gt; By informing the user of correct motion and timing, the robot can guide the user to achieve a healthy gait by only assisting their ankle joint. The robot provides faster-than-ankle motion to allow the user to feel supported while walking. Users can adjust the robot’s assistance parameters through a graphical user interface (GUI) according to their demands. Furthermore, &lt;strong&gt;we proposed a gait-adaptive method for ankle assistive robots to adapt to the user’s changing gait.&lt;/strong&gt; Hence, the robot can automatically adjust the parameters to provide more accurate walking assistance. Finally, the results of an evaluation experiment demonstrated the positive feasibility of human gait adaptation. The proposed methods have the advantages of low cost and easy implementation.&lt;/p&gt;
+&lt;h1 id=&#34;demo&#34;&gt;D﻿emo&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-robot-operates-in-normal-mode-the-robot-provides-constant-walking-assistance-to-the-user&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Robot operates in normal mode, the robot provides constant walking assistance to the user&#34;
+           src=&#34;https://mingyangxu.netlify.app/project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/REGIF1.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Robot operates in normal mode, the robot provides constant walking assistance to the user
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-robot-operates-in-gait-adaptive-mode-the-robot-adjusts-the-assistance-automatically-to-adapt-to-the-users-changing-gait&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Robot operates in gait-adaptive mode, the robot adjusts the assistance automatically to adapt to the user’s changing gait&#34;
+           src=&#34;https://mingyangxu.netlify.app/project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/REGIF2.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Robot operates in gait-adaptive mode, the robot adjusts the assistance automatically to adapt to the user’s changing gait
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-users-can-adjust-the-assistance-mode-and-assistance-parameter-by-the-developed-gui&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Users can adjust the assistance mode and assistance parameter by the developed GUI&#34;
+           src=&#34;https://mingyangxu.netlify.app/project/imanta-bionic-aerial-robot-shows-on-2017-national-youth-college-science-camp/GUI1.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Users can adjust the assistance mode and assistance parameter by the developed GUI
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;related-publications&#34;&gt;R﻿elated Publications&lt;/h1&gt;
+&lt;p&gt;[1] &lt;strong&gt;M. Xu&lt;/strong&gt;, Y. Hua, Y. Li, J. Zhuang, K. Osawa, K. Nakagawa, H. Lee, L. Yuge, E. Tanaka, “Development of an Ankle Assistive Robot with Instantly Gait-Adaptive Method,” in &lt;em&gt;Journal of Robotics and Mechatronics (JRM)&lt;/em&gt;, 2023. (Accepted)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Real-Time and Two-Dimensional Emotion Recognition System Based on EEG and HRV Using Machine Learning</title>
+      <link>https://mingyangxu.netlify.app/publication/a-separable-compound-quadrotor-fixed-wing-aircraft/</link>
+      <pubDate>Fri, 20 Jan 2023 11:45:11 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/publication/a-separable-compound-quadrotor-fixed-wing-aircraft/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-overview-of-emotion-recognition-system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overview of emotion recognition system&#34; srcset=&#34;
+               /publication/a-separable-compound-quadrotor-fixed-wing-aircraft/emotion_hub50b9a25e7b48472fc22811b6d86c2e6_557920_6c1f89c44067f3cd483dd31fc800543b.webp 400w,
+               /publication/a-separable-compound-quadrotor-fixed-wing-aircraft/emotion_hub50b9a25e7b48472fc22811b6d86c2e6_557920_ab163a5c52acc599e638ec9d415be296.webp 760w,
+               /publication/a-separable-compound-quadrotor-fixed-wing-aircraft/emotion_hub50b9a25e7b48472fc22811b6d86c2e6_557920_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/publication/a-separable-compound-quadrotor-fixed-wing-aircraft/emotion_hub50b9a25e7b48472fc22811b6d86c2e6_557920_6c1f89c44067f3cd483dd31fc800543b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;310&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Overview of emotion recognition system
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Control Method for Walking Assistive Robot Based on Emotion and Fatigue Detection</title>
+      <link>https://mingyangxu.netlify.app/project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/</link>
+      <pubDate>Sat, 10 Sep 2022 04:05:58 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as1_huc7686695b4c9d35c96d368554cd83de8_619596_82af4f180165d1a29568a833818772da.webp 400w,
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as1_huc7686695b4c9d35c96d368554cd83de8_619596_b22898189fdc5430f88dbc4bd959283b.webp 760w,
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as1_huc7686695b4c9d35c96d368554cd83de8_619596_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as1_huc7686695b4c9d35c96d368554cd83de8_619596_82af4f180165d1a29568a833818772da.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;423&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;The purpose of this study is to develop a control system for walking assistive robot that enables the user to keep positive emotions and maintain high levels of motivation during exercise.&lt;/strong&gt; In this study, a control method based on emotion recognition and fatigue detection was proposed. We used &lt;strong&gt;brainwave and heartbeat signals&lt;/strong&gt; to train a deep neural network (DNN) model to recognize users’ emotions. &lt;strong&gt;Portable near-infrared spectroscopy (NIRS)&lt;/strong&gt; was used to detect muscle fatigue. Furthermore, we established a 3D human state model to evaluate the user’s emotional and fatigue states. We also performed experiments to evaluate the ability of the control method to improve the effect of walking exercise.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-control-process-of-the-walking-assistive-system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Control process of the walking assistive system&#34; srcset=&#34;
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as2_hue9dfd38e01b8353183f2422edb1680bc_1537899_e3a1d109c6afb6dbe1cc9ed0bf824252.webp 400w,
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as2_hue9dfd38e01b8353183f2422edb1680bc_1537899_5512c8816e0ab0750aede674979739db.webp 760w,
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as2_hue9dfd38e01b8353183f2422edb1680bc_1537899_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as2_hue9dfd38e01b8353183f2422edb1680bc_1537899_e3a1d109c6afb6dbe1cc9ed0bf824252.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Control process of the walking assistive system
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-flow-diagram-of-the-real-time-emotion-recognition-system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Flow diagram of the real-time emotion recognition system&#34; srcset=&#34;
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as3_hu168ce9fbbeafdc7a27efb5d95184ef30_1006565_1e9d5f7e186b31cbee44310b205d445e.webp 400w,
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as3_hu168ce9fbbeafdc7a27efb5d95184ef30_1006565_b2222b078a55d5c443898e16d799935a.webp 760w,
+               /project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as3_hu168ce9fbbeafdc7a27efb5d95184ef30_1006565_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/mingyang-xu-was-invited-to-make-a-report-at-2018-student-technology-innovation-forum-of-beihang-university/as3_hu168ce9fbbeafdc7a27efb5d95184ef30_1006565_1e9d5f7e186b31cbee44310b205d445e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;282&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Flow diagram of the real-time emotion recognition system
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;related-publications&#34;&gt;Related Publications:&lt;/h1&gt;
+&lt;p&gt;[1] Y. Li, &lt;strong&gt;M. Xu&lt;/strong&gt;, K. Osawa, E. Tanaka, “A Control Method for Walking Assistance Robot Considering Emotion and Body Condition,” in JSME-IIP/ASME-ISPS Joint International Conference on Micromechatronics for Information and Precision Equipment (MIPE 2022), A1-1-03, 2022.&lt;/p&gt;
+&lt;p&gt;[2] Y. Wei, Y. Li, &lt;strong&gt;M. Xu&lt;/strong&gt;, Y. Gong, K. Osawa, E. Tanaka, “A Real-Time and Two-Dimensional Emotion Recognition System Based on EEG and HRV Using Machine Learning,” in IEEE/SICE International Symposium on System Integrations (SII 2023), Atlanta, GA, USA, 2023, pp. 1-6.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Control Method for Walking Assistance Robot Considering Emotion and Body Condition</title>
+      <link>https://mingyangxu.netlify.app/publication/a-control-method-for-walking-assistance-robot-considering-emotion-and-body-condition/</link>
+      <pubDate>Sun, 28 Aug 2022 11:55:07 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/publication/a-control-method-for-walking-assistance-robot-considering-emotion-and-body-condition/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-a-overview-of-the-walking-assistive-system-based-on-emotion-recognition-and-fatigue-detection-and-b-control-process-of-the-system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;(a) Overview of the walking assistive system based on emotion recognition and fatigue detection and (b) Control process of the system&#34; srcset=&#34;
+               /publication/a-control-method-for-walking-assistance-robot-considering-emotion-and-body-condition/final-thesis%E5%9B%BE%E7%89%87_12.20_%E9%AB%98_27-%E5%89%AF%E6%9C%AC_hu540c186eb5a5bd3a4d07cce761dbc8d6_1455831_3d49e0008f0b161cd2c2d3f057d7d6f2.webp 400w,
+               /publication/a-control-method-for-walking-assistance-robot-considering-emotion-and-body-condition/final-thesis%E5%9B%BE%E7%89%87_12.20_%E9%AB%98_27-%E5%89%AF%E6%9C%AC_hu540c186eb5a5bd3a4d07cce761dbc8d6_1455831_bc05cc3d55ca56dcc3ab46524b73b53d.webp 760w,
+               /publication/a-control-method-for-walking-assistance-robot-considering-emotion-and-body-condition/final-thesis%E5%9B%BE%E7%89%87_12.20_%E9%AB%98_27-%E5%89%AF%E6%9C%AC_hu540c186eb5a5bd3a4d07cce761dbc8d6_1455831_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/publication/a-control-method-for-walking-assistance-robot-considering-emotion-and-body-condition/final-thesis%E5%9B%BE%E7%89%87_12.20_%E9%AB%98_27-%E5%89%AF%E6%9C%AC_hu540c186eb5a5bd3a4d07cce761dbc8d6_1455831_3d49e0008f0b161cd2c2d3f057d7d6f2.webp&#34;
+               width=&#34;556&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      (a) Overview of the walking assistive system based on emotion recognition and fatigue detection and (b) Control process of the system
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Student Aeromodelling Association</title>
+      <link>https://mingyangxu.netlify.app/post/beihang-university-student-robot-association/</link>
+      <pubDate>Sat, 02 Jul 2022 08:13:01 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/post/beihang-university-student-robot-association/</guid>
+      <description>&lt;p&gt;Mingyang Xu is a member of Student Aeromodelling Association of Beihang University from Oct. 2015 to Jun. 2016.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/beihang-university-student-robot-association/ae1_huc4bb26d03f0798dbf409cfaf2dbf8b9d_2913279_dd2b93cc57fbb7e0a33c995272d0b1e1.webp 400w,
+               /post/beihang-university-student-robot-association/ae1_huc4bb26d03f0798dbf409cfaf2dbf8b9d_2913279_d19a3275f7b0b8198c9e3cbf5e1e10a2.webp 760w,
+               /post/beihang-university-student-robot-association/ae1_huc4bb26d03f0798dbf409cfaf2dbf8b9d_2913279_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/post/beihang-university-student-robot-association/ae1_huc4bb26d03f0798dbf409cfaf2dbf8b9d_2913279_dd2b93cc57fbb7e0a33c995272d0b1e1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;510&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>★ iManta: a Manta ray-inspired Aerial Robot</title>
+      <link>https://mingyangxu.netlify.app/project/imanta/</link>
+      <pubDate>Mon, 20 Jun 2022 11:26:03 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/project/imanta/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Members:&lt;/strong&gt; Mingyang Xu, Yunkai Qi, Xiaoyue Zhang, Ning Liu, Jiaxuan Zhang, and Mengjie Xiao&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Zhongcai Pei and Prof. Jianhong Liang&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_36154b6daa2d27081a0765b4ad436c42.webp 400w,
+               /project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_2fec19e8ed630e020216aa3c7ab68165.webp 760w,
+               /project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_36154b6daa2d27081a0765b4ad436c42.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;105&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/imanta/ma0_hu959291e14c462281bfc4ecda7697b1f6_1018533_3f8c60d24651620966a6060c762e599b.webp 400w,
+               /project/imanta/ma0_hu959291e14c462281bfc4ecda7697b1f6_1018533_b7e2e077968c7165b2db6c5daba3efb5.webp 760w,
+               /project/imanta/ma0_hu959291e14c462281bfc4ecda7697b1f6_1018533_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma0_hu959291e14c462281bfc4ecda7697b1f6_1018533_3f8c60d24651620966a6060c762e599b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;315&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;motivation&#34;&gt;Motivation:&lt;/h1&gt;
+&lt;p&gt;The desire for &lt;strong&gt;“Flying Through the Sea of Air”&lt;/strong&gt; is a vision that has constantly motivated us to explore the design of aerial robots since we noticed that &lt;strong&gt;the manta ray swims through the water as a bird flies through the air&lt;/strong&gt;. Most conventional aerial robots are driven by propellers. However, the use of propellers is accompanied by noise and danger due to the high-speed rotation. Once the operating propeller accidentally touches persons or objects, injury or economic loss may result, which makes the propeller-based aerial robots usually unsuitable for indoor environment application. Biomimetics in propulsion inspires us to solve the above limitation.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/imanta/ma2_2_hu9d19354c6bba901360f68b5398b5e1cc_313035_a5d2a8c767f014db595f195871927a18.webp 400w,
+               /project/imanta/ma2_2_hu9d19354c6bba901360f68b5398b5e1cc_313035_2881ed96a04f339440500da359801d25.webp 760w,
+               /project/imanta/ma2_2_hu9d19354c6bba901360f68b5398b5e1cc_313035_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma2_2_hu9d19354c6bba901360f68b5398b5e1cc_313035_a5d2a8c767f014db595f195871927a18.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;124&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/5PalNpcQS3s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-movement-of-manta-rays&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The movement of manta rays&#34; srcset=&#34;
+               /project/imanta/ma2_1_hu0f57fdd1720dc76d05ba1cdc566f3ba1_201380_c466195d84074efa0c92a99092bd1820.webp 400w,
+               /project/imanta/ma2_1_hu0f57fdd1720dc76d05ba1cdc566f3ba1_201380_27258abccd169d6835ae7ab183f87097.webp 760w,
+               /project/imanta/ma2_1_hu0f57fdd1720dc76d05ba1cdc566f3ba1_201380_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma2_1_hu0f57fdd1720dc76d05ba1cdc566f3ba1_201380_c466195d84074efa0c92a99092bd1820.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;150&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The movement of manta rays
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview:&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;In this study, we proposed a new aerial robot that mimics the manta ray’s movement and is suitable for indoor-environment applications.&lt;/strong&gt; The robot mainly comprises a lightweight helium-filled ballonet, a noiseless flapping-wing actuator, a pitch control mechanism, and a tail-like rudder. In the flight tests, the prototypes not only demonstrated controlled and flexible flight but also were able to &lt;strong&gt;execute manta-like high manoeuvring motions&lt;/strong&gt;. Long operation time was ensured due to the helium ballonet body, low-frequency flapping wing, and low-power electronics. Overall, the developed bioinspired robot is featured as energy-efficient, noiseless, and harmless for human-robot interaction. It can further bring new applications for aerial robotics, such as robot therapy (as comfort pets), long-time surveillance and event observation, and interactable and dynamic advertising media.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-overview-of-imanta&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overview of iManta&#34; srcset=&#34;
+               /project/imanta/ma1_hue1fe65183c8cf929ef2ff824e417b9dc_574840_0851f0c912d123bea16df6d94a49ffe7.webp 400w,
+               /project/imanta/ma1_hue1fe65183c8cf929ef2ff824e417b9dc_574840_e17e256f4b17d623b753be6a05472792.webp 760w,
+               /project/imanta/ma1_hue1fe65183c8cf929ef2ff824e417b9dc_574840_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma1_hue1fe65183c8cf929ef2ff824e417b9dc_574840_0851f0c912d123bea16df6d94a49ffe7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;403&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Overview of iManta
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-imanta-performs-high-manoeuvring-motions&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;iManta performs high manoeuvring motions&#34; srcset=&#34;
+               /project/imanta/ma3_hud7a9dee5de25b282c8656a7aee7aa03e_1026169_fb984c5f99460e0a2f52387b4b9b860e.webp 400w,
+               /project/imanta/ma3_hud7a9dee5de25b282c8656a7aee7aa03e_1026169_479304653453a3f2f46f31f937e312f7.webp 760w,
+               /project/imanta/ma3_hud7a9dee5de25b282c8656a7aee7aa03e_1026169_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma3_hud7a9dee5de25b282c8656a7aee7aa03e_1026169_fb984c5f99460e0a2f52387b4b9b860e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;562&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      iManta performs high manoeuvring motions
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-imanta-shown-in-feng-ru-cup-science-and-technology-festival-beijing-china&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;iManta shown in “Feng Ru Cup” Science and Technology Festival (Beijing, China)&#34; srcset=&#34;
+               /project/imanta/ma4_hu607cabbfb41e0be89c8e35244c826030_1517073_d11ed8b34914f40d8a57baa2d3a25c00.webp 400w,
+               /project/imanta/ma4_hu607cabbfb41e0be89c8e35244c826030_1517073_f693496d2dec242dd2801fcc4432cd06.webp 760w,
+               /project/imanta/ma4_hu607cabbfb41e0be89c8e35244c826030_1517073_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma4_hu607cabbfb41e0be89c8e35244c826030_1517073_d11ed8b34914f40d8a57baa2d3a25c00.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;254&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      iManta shown in “Feng Ru Cup” Science and Technology Festival (Beijing, China)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Energy-efficient&lt;/li&gt;
+&lt;li&gt;Noiseless&lt;/li&gt;
+&lt;li&gt;Suitable for indoor environment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Harmless for human-robot interaction&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-interaction-between-humans-and-imanta&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The interaction between humans and iManta&#34; srcset=&#34;
+               /project/imanta/ma5_hu39529e8e5997a337135e01500b89ea22_2678758_083e34a2bc5906dfe4e4c30fdbb690d2.webp 400w,
+               /project/imanta/ma5_hu39529e8e5997a337135e01500b89ea22_2678758_cf75ca7723d2e71696f4620d81c15ff2.webp 760w,
+               /project/imanta/ma5_hu39529e8e5997a337135e01500b89ea22_2678758_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma5_hu39529e8e5997a337135e01500b89ea22_2678758_083e34a2bc5906dfe4e4c30fdbb690d2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;349&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The interaction between humans and iManta
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;future-applications&#34;&gt;Future Applications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Interactable and dynamic advertising media&lt;/li&gt;
+&lt;li&gt;Robot therapy (as comfort pets)&lt;/li&gt;
+&lt;li&gt;Long-time surveillance and event observation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/imanta/ma6_hu434bdedbc7818972e90bea0d656b3d51_728902_46411f2c076e2de7c38414f711e2304e.webp 400w,
+               /project/imanta/ma6_hu434bdedbc7818972e90bea0d656b3d51_728902_46d0412f20397c749aba49984f20fde8.webp 760w,
+               /project/imanta/ma6_hu434bdedbc7818972e90bea0d656b3d51_728902_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma6_hu434bdedbc7818972e90bea0d656b3d51_728902_46411f2c076e2de7c38414f711e2304e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-application-as-dynamic-advertising-media&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The application as dynamic advertising media&#34; srcset=&#34;
+               /project/imanta/ma7_hueefebed8737d2ab97431e185de79669d_2121451_f5c34c145e50835a5582f31fc8132584.webp 400w,
+               /project/imanta/ma7_hueefebed8737d2ab97431e185de79669d_2121451_f478f16b982069303dfeb87256470db5.webp 760w,
+               /project/imanta/ma7_hueefebed8737d2ab97431e185de79669d_2121451_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma7_hueefebed8737d2ab97431e185de79669d_2121451_f5c34c145e50835a5582f31fc8132584.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;502&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The application as dynamic advertising media
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/imanta/ma8_hu0052b7d8ef6505302a280a9867b1d2f8_1002294_66e36c3569b58ce448ab7971a95ae02a.webp 400w,
+               /project/imanta/ma8_hu0052b7d8ef6505302a280a9867b1d2f8_1002294_1cc2de9dcda2c73dce1e6a3e8ba1f817.webp 760w,
+               /project/imanta/ma8_hu0052b7d8ef6505302a280a9867b1d2f8_1002294_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma8_hu0052b7d8ef6505302a280a9867b1d2f8_1002294_66e36c3569b58ce448ab7971a95ae02a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;414&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-application-as-comfort-pets&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The application as comfort pets&#34; srcset=&#34;
+               /project/imanta/ma10_hu357f5e642310c82889a8e333dccc15c2_953939_f8d504495298b404a107464fc826eefa.webp 400w,
+               /project/imanta/ma10_hu357f5e642310c82889a8e333dccc15c2_953939_98c128be0d2a2d0e383d8c026de2f4b2.webp 760w,
+               /project/imanta/ma10_hu357f5e642310c82889a8e333dccc15c2_953939_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma10_hu357f5e642310c82889a8e333dccc15c2_953939_f8d504495298b404a107464fc826eefa.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The application as comfort pets
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-application-for-surveillance-and-event-observation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The application for surveillance and event observation&#34; srcset=&#34;
+               /project/imanta/ma9_hu4e5b268af132319ad8a5dc7b75d61fe1_2212482_44c4a876fe4d414569f7f041c8193c25.webp 400w,
+               /project/imanta/ma9_hu4e5b268af132319ad8a5dc7b75d61fe1_2212482_e3764eb0279d182d02b1daf2f633927b.webp 760w,
+               /project/imanta/ma9_hu4e5b268af132319ad8a5dc7b75d61fe1_2212482_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma9_hu4e5b268af132319ad8a5dc7b75d61fe1_2212482_44c4a876fe4d414569f7f041c8193c25.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;497&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The application for surveillance and event observation
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_36154b6daa2d27081a0765b4ad436c42.webp 400w,
+               /project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_2fec19e8ed630e020216aa3c7ab68165.webp 760w,
+               /project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_36154b6daa2d27081a0765b4ad436c42.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;105&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music and Recording Studio</title>
+      <link>https://mingyangxu.netlify.app/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/post/getting-started/</guid>
+      <description>&lt;p&gt;Mingyang Xu worked in Recording Studio of Beihang University as a student cadre from Sep. 2016 to Jun. 2017, during which he recorded and produced music for bands and individuals.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://mingyangxu.netlify.app/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://mingyangxu.netlify.app/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
@@ -624,10 +1081,10 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
   One
 &lt;/span&gt;
@@ -699,75 +1156,206 @@ $$&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Terrain-adaptive Aerial Robot with Legged Landing Gear</title>
+      <link>https://mingyangxu.netlify.app/project/terrain-adaptive-aerial-robot/</link>
+      <pubDate>Sun, 20 May 2018 04:12:23 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/project/terrain-adaptive-aerial-robot/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Members:&lt;/strong&gt; Mingyang Xu, Yunkai Qi, Jin Zhu, Wanhe An, Dada Hu, Jiaxuan Zhang, Shiqi Sun&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Tianmiao Wang&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/terrain-adaptive-aerial-robot/la0_hu58fc55ce737ddd39e288094ee9b7622f_3818586_b6579eb17eadfbbe1e1e0473777a6e27.webp 400w,
+               /project/terrain-adaptive-aerial-robot/la0_hu58fc55ce737ddd39e288094ee9b7622f_3818586_c28f2812607b50e45c1107958516afbb.webp 760w,
+               /project/terrain-adaptive-aerial-robot/la0_hu58fc55ce737ddd39e288094ee9b7622f_3818586_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/terrain-adaptive-aerial-robot/la0_hu58fc55ce737ddd39e288094ee9b7622f_3818586_b6579eb17eadfbbe1e1e0473777a6e27.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;391&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Vertical take-off and landing aircrafts (VTOLs) are widely used in transport and rescue tasks because of their ability to perform vertical takeoffs and landings. &lt;strong&gt;However, the possibility of off-field landings is severely limited by non-flat landing areas. Some example landing areas include great slopes, rocky grounds, and stairs.&lt;/strong&gt; VTOL-type aerial robots that use conventional skids or landing wheels have poor ability to adapt to uneven and steep terrain, causing safety problems and economic losses. Aiming at the above limitations, we proposed a novel terrain-adaptive aerial robot. This aerial robot features robotic landing gear, which consists of four legs. Based on the force, attitude, and height data collected by the sensors, the landing gear could be automatically adjusted to conform closely with the ground, thus &lt;strong&gt;keeping the robot horizontal and balanced during landing&lt;/strong&gt;. Finally, the laboratory experiment test and outfield flight test have been done to verify the results of the design and theory modelling.&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/uX7zKS1Cb6I&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-overview-of-developed-prototypes&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overview of developed prototypes&#34; srcset=&#34;
+               /project/terrain-adaptive-aerial-robot/la1_hu5e01a03e094f69a818aaa342ee05f2d5_4859023_8d61c51fe5bbdf514ec6a5b4a8121dde.webp 400w,
+               /project/terrain-adaptive-aerial-robot/la1_hu5e01a03e094f69a818aaa342ee05f2d5_4859023_a8eebb740faee4f07e23ab0b7c54dc77.webp 760w,
+               /project/terrain-adaptive-aerial-robot/la1_hu5e01a03e094f69a818aaa342ee05f2d5_4859023_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/terrain-adaptive-aerial-robot/la1_hu5e01a03e094f69a818aaa342ee05f2d5_4859023_8d61c51fe5bbdf514ec6a5b4a8121dde.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;474&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Overview of developed prototypes
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-process-of-the-terrain-adaptive-landing-mode&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Process of the terrain-adaptive landing mode&#34; srcset=&#34;
+               /project/terrain-adaptive-aerial-robot/la2_hu6557e5424d72559578666f56dbc99953_1138255_3a176cc15e907f79b4848bac300506bb.webp 400w,
+               /project/terrain-adaptive-aerial-robot/la2_hu6557e5424d72559578666f56dbc99953_1138255_f07a90e0e49492cc3ef1bd8d5735b3ac.webp 760w,
+               /project/terrain-adaptive-aerial-robot/la2_hu6557e5424d72559578666f56dbc99953_1138255_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/terrain-adaptive-aerial-robot/la2_hu6557e5424d72559578666f56dbc99953_1138255_3a176cc15e907f79b4848bac300506bb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;502&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Process of the terrain-adaptive landing mode
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/terrain-adaptive-aerial-robot/group_hu3c059915d182fd95be66963e11dd0e80_265165_36154b6daa2d27081a0765b4ad436c42.webp 400w,
+               /project/terrain-adaptive-aerial-robot/group_hu3c059915d182fd95be66963e11dd0e80_265165_2fec19e8ed630e020216aa3c7ab68165.webp 760w,
+               /project/terrain-adaptive-aerial-robot/group_hu3c059915d182fd95be66963e11dd0e80_265165_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/terrain-adaptive-aerial-robot/group_hu3c059915d182fd95be66963e11dd0e80_265165_36154b6daa2d27081a0765b4ad436c42.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;105&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+      <title>Quadrotor Based Launch System for Fixed-wing Aircraft</title>
+      <link>https://mingyangxu.netlify.app/project/quadrotor-based-launch-system-for-fixed-wing-aircraft/</link>
+      <pubDate>Thu, 06 Jul 2017 04:19:41 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/project/quadrotor-based-launch-system-for-fixed-wing-aircraft/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Missions for long-endurance fixed-wing aircraft have been limited by an inability to take off from constricted spaces. Although vertical take-off and landing (VTOL) aircrafts can hover, take off, and land vertically without relying on a runway, they usually present less aerodynamic efficiency, duration of flight, and carrying capacity because they carry additional motors, batteries and propellers. Therefore, &lt;strong&gt;we developed a multicopter-based launch system for fix-wing aircrafts to provide them with a VTOL capability.&lt;/strong&gt; The fix-wing aircraft to be launched is attached to the underside of the system by the ground crew. The launch system then carries the attached aircraft up into the air. Once at a sufficient altitude, the launch system revs its engines up to a certain speed and then releases the attached aircraft by ejection system. After the release, the launch system returns to the ground crew. Finally, the aircraft can be recovered by a parachute after conducting the task. &lt;strong&gt;The multicopter-based launch system can enhance the capability of fix-wing aircrafts to take off from complex terrain.&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;V﻿ideo&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/xFF3N7h-STA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
 </description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Knowledge Base Management System for Components Selection (Chinese)</title>
+      <link>https://mingyangxu.netlify.app/project/knowledge-base-management-system-for-components-selection/</link>
+      <pubDate>Sat, 20 May 2017 04:23:55 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/project/knowledge-base-management-system-for-components-selection/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Members:&lt;/strong&gt; Mingyang Xu&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Guijiang Duan&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;In this project, a knowledge base management system for components selection was designed. In addition, we tried out the functions of case-based reasoning, such as knowledge-base case searching, case distance estimation and case matching to realize intelligent component troubleshooting.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/knowledge-base-management-system-for-components-selection/co1_hu6b1706c0cc55597ece25ffd993428581_592853_d7ba066a1b9ed42e4ad8336bc92bc494.webp 400w,
+               /project/knowledge-base-management-system-for-components-selection/co1_hu6b1706c0cc55597ece25ffd993428581_592853_7a051a59f72873071bc2a7d374c007eb.webp 760w,
+               /project/knowledge-base-management-system-for-components-selection/co1_hu6b1706c0cc55597ece25ffd993428581_592853_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/knowledge-base-management-system-for-components-selection/co1_hu6b1706c0cc55597ece25ffd993428581_592853_d7ba066a1b9ed42e4ad8336bc92bc494.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;684&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://mingyangxu.netlify.app/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://mingyangxu.netlify.app/admin/config.yml</guid>
       <description></description>
     </item>
     

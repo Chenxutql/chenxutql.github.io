@@ -1,33 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Academic</title>
-    <link>https://example.com/publication-type/1/</link>
-      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <title>1 | Mingyang Xu</title>
+    <link>https://mingyangxu.netlify.app/publication-type/1/</link>
+      <atom:link href="https://mingyangxu.netlify.app/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 11:45:11 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mingyangxu.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://example.com/publication-type/1/</link>
+      <link>https://mingyangxu.netlify.app/publication-type/1/</link>
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>A Real-Time and Two-Dimensional Emotion Recognition System Based on EEG and HRV Using Machine Learning</title>
+      <link>https://mingyangxu.netlify.app/publication/a-separable-compound-quadrotor-fixed-wing-aircraft/</link>
+      <pubDate>Fri, 20 Jan 2023 11:45:11 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/publication/a-separable-compound-quadrotor-fixed-wing-aircraft/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-overview-of-emotion-recognition-system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overview of emotion recognition system&#34; srcset=&#34;
+               /publication/a-separable-compound-quadrotor-fixed-wing-aircraft/emotion_hub50b9a25e7b48472fc22811b6d86c2e6_557920_6c1f89c44067f3cd483dd31fc800543b.webp 400w,
+               /publication/a-separable-compound-quadrotor-fixed-wing-aircraft/emotion_hub50b9a25e7b48472fc22811b6d86c2e6_557920_ab163a5c52acc599e638ec9d415be296.webp 760w,
+               /publication/a-separable-compound-quadrotor-fixed-wing-aircraft/emotion_hub50b9a25e7b48472fc22811b6d86c2e6_557920_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/publication/a-separable-compound-quadrotor-fixed-wing-aircraft/emotion_hub50b9a25e7b48472fc22811b6d86c2e6_557920_6c1f89c44067f3cd483dd31fc800543b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;310&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Overview of emotion recognition system
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Control Method for Walking Assistance Robot Considering Emotion and Body Condition</title>
+      <link>https://mingyangxu.netlify.app/publication/a-control-method-for-walking-assistance-robot-considering-emotion-and-body-condition/</link>
+      <pubDate>Sun, 28 Aug 2022 11:55:07 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/publication/a-control-method-for-walking-assistance-robot-considering-emotion-and-body-condition/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-a-overview-of-the-walking-assistive-system-based-on-emotion-recognition-and-fatigue-detection-and-b-control-process-of-the-system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;(a) Overview of the walking assistive system based on emotion recognition and fatigue detection and (b) Control process of the system&#34; srcset=&#34;
+               /publication/a-control-method-for-walking-assistance-robot-considering-emotion-and-body-condition/final-thesis%E5%9B%BE%E7%89%87_12.20_%E9%AB%98_27-%E5%89%AF%E6%9C%AC_hu540c186eb5a5bd3a4d07cce761dbc8d6_1455831_3d49e0008f0b161cd2c2d3f057d7d6f2.webp 400w,
+               /publication/a-control-method-for-walking-assistance-robot-considering-emotion-and-body-condition/final-thesis%E5%9B%BE%E7%89%87_12.20_%E9%AB%98_27-%E5%89%AF%E6%9C%AC_hu540c186eb5a5bd3a4d07cce761dbc8d6_1455831_bc05cc3d55ca56dcc3ab46524b73b53d.webp 760w,
+               /publication/a-control-method-for-walking-assistance-robot-considering-emotion-and-body-condition/final-thesis%E5%9B%BE%E7%89%87_12.20_%E9%AB%98_27-%E5%89%AF%E6%9C%AC_hu540c186eb5a5bd3a4d07cce761dbc8d6_1455831_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/publication/a-control-method-for-walking-assistance-robot-considering-emotion-and-body-condition/final-thesis%E5%9B%BE%E7%89%87_12.20_%E9%AB%98_27-%E5%89%AF%E6%9C%AC_hu540c186eb5a5bd3a4d07cce761dbc8d6_1455831_3d49e0008f0b161cd2c2d3f057d7d6f2.webp&#34;
+               width=&#34;556&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      (a) Overview of the walking assistive system based on emotion recognition and fatigue detection and (b) Control process of the system
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     

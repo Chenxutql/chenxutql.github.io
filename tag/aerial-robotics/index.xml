@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aerial Robotics | Mingyang Xu</title>
+    <link>https://mingyangxu.netlify.app/tag/aerial-robotics/</link>
+      <atom:link href="https://mingyangxu.netlify.app/tag/aerial-robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aerial Robotics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jun 2022 11:26:03 +0000</lastBuildDate>
+    <image>
+      <url>https://mingyangxu.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Aerial Robotics</title>
+      <link>https://mingyangxu.netlify.app/tag/aerial-robotics/</link>
+    </image>
+    
+    <item>
+      <title>★ iManta: a Manta ray-inspired Aerial Robot</title>
+      <link>https://mingyangxu.netlify.app/project/imanta/</link>
+      <pubDate>Mon, 20 Jun 2022 11:26:03 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/project/imanta/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Members:&lt;/strong&gt; Mingyang Xu, Yunkai Qi, Xiaoyue Zhang, Ning Liu, Jiaxuan Zhang, and Mengjie Xiao&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Zhongcai Pei and Prof. Jianhong Liang&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_36154b6daa2d27081a0765b4ad436c42.webp 400w,
+               /project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_2fec19e8ed630e020216aa3c7ab68165.webp 760w,
+               /project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_36154b6daa2d27081a0765b4ad436c42.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;105&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/imanta/ma0_hu959291e14c462281bfc4ecda7697b1f6_1018533_3f8c60d24651620966a6060c762e599b.webp 400w,
+               /project/imanta/ma0_hu959291e14c462281bfc4ecda7697b1f6_1018533_b7e2e077968c7165b2db6c5daba3efb5.webp 760w,
+               /project/imanta/ma0_hu959291e14c462281bfc4ecda7697b1f6_1018533_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma0_hu959291e14c462281bfc4ecda7697b1f6_1018533_3f8c60d24651620966a6060c762e599b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;315&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;motivation&#34;&gt;Motivation:&lt;/h1&gt;
+&lt;p&gt;The desire for &lt;strong&gt;“Flying Through the Sea of Air”&lt;/strong&gt; is a vision that has constantly motivated us to explore the design of aerial robots since we noticed that &lt;strong&gt;the manta ray swims through the water as a bird flies through the air&lt;/strong&gt;. Most conventional aerial robots are driven by propellers. However, the use of propellers is accompanied by noise and danger due to the high-speed rotation. Once the operating propeller accidentally touches persons or objects, injury or economic loss may result, which makes the propeller-based aerial robots usually unsuitable for indoor environment application. Biomimetics in propulsion inspires us to solve the above limitation.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/imanta/ma2_2_hu9d19354c6bba901360f68b5398b5e1cc_313035_a5d2a8c767f014db595f195871927a18.webp 400w,
+               /project/imanta/ma2_2_hu9d19354c6bba901360f68b5398b5e1cc_313035_2881ed96a04f339440500da359801d25.webp 760w,
+               /project/imanta/ma2_2_hu9d19354c6bba901360f68b5398b5e1cc_313035_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma2_2_hu9d19354c6bba901360f68b5398b5e1cc_313035_a5d2a8c767f014db595f195871927a18.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;124&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/5PalNpcQS3s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-movement-of-manta-rays&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The movement of manta rays&#34; srcset=&#34;
+               /project/imanta/ma2_1_hu0f57fdd1720dc76d05ba1cdc566f3ba1_201380_c466195d84074efa0c92a99092bd1820.webp 400w,
+               /project/imanta/ma2_1_hu0f57fdd1720dc76d05ba1cdc566f3ba1_201380_27258abccd169d6835ae7ab183f87097.webp 760w,
+               /project/imanta/ma2_1_hu0f57fdd1720dc76d05ba1cdc566f3ba1_201380_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma2_1_hu0f57fdd1720dc76d05ba1cdc566f3ba1_201380_c466195d84074efa0c92a99092bd1820.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;150&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The movement of manta rays
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview:&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;In this study, we proposed a new aerial robot that mimics the manta ray’s movement and is suitable for indoor-environment applications.&lt;/strong&gt; The robot mainly comprises a lightweight helium-filled ballonet, a noiseless flapping-wing actuator, a pitch control mechanism, and a tail-like rudder. In the flight tests, the prototypes not only demonstrated controlled and flexible flight but also were able to &lt;strong&gt;execute manta-like high manoeuvring motions&lt;/strong&gt;. Long operation time was ensured due to the helium ballonet body, low-frequency flapping wing, and low-power electronics. Overall, the developed bioinspired robot is featured as energy-efficient, noiseless, and harmless for human-robot interaction. It can further bring new applications for aerial robotics, such as robot therapy (as comfort pets), long-time surveillance and event observation, and interactable and dynamic advertising media.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-overview-of-imanta&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overview of iManta&#34; srcset=&#34;
+               /project/imanta/ma1_hue1fe65183c8cf929ef2ff824e417b9dc_574840_0851f0c912d123bea16df6d94a49ffe7.webp 400w,
+               /project/imanta/ma1_hue1fe65183c8cf929ef2ff824e417b9dc_574840_e17e256f4b17d623b753be6a05472792.webp 760w,
+               /project/imanta/ma1_hue1fe65183c8cf929ef2ff824e417b9dc_574840_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma1_hue1fe65183c8cf929ef2ff824e417b9dc_574840_0851f0c912d123bea16df6d94a49ffe7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;403&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Overview of iManta
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-imanta-performs-high-manoeuvring-motions&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;iManta performs high manoeuvring motions&#34; srcset=&#34;
+               /project/imanta/ma3_hud7a9dee5de25b282c8656a7aee7aa03e_1026169_fb984c5f99460e0a2f52387b4b9b860e.webp 400w,
+               /project/imanta/ma3_hud7a9dee5de25b282c8656a7aee7aa03e_1026169_479304653453a3f2f46f31f937e312f7.webp 760w,
+               /project/imanta/ma3_hud7a9dee5de25b282c8656a7aee7aa03e_1026169_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma3_hud7a9dee5de25b282c8656a7aee7aa03e_1026169_fb984c5f99460e0a2f52387b4b9b860e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;562&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      iManta performs high manoeuvring motions
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-imanta-shown-in-feng-ru-cup-science-and-technology-festival-beijing-china&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;iManta shown in “Feng Ru Cup” Science and Technology Festival (Beijing, China)&#34; srcset=&#34;
+               /project/imanta/ma4_hu607cabbfb41e0be89c8e35244c826030_1517073_d11ed8b34914f40d8a57baa2d3a25c00.webp 400w,
+               /project/imanta/ma4_hu607cabbfb41e0be89c8e35244c826030_1517073_f693496d2dec242dd2801fcc4432cd06.webp 760w,
+               /project/imanta/ma4_hu607cabbfb41e0be89c8e35244c826030_1517073_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma4_hu607cabbfb41e0be89c8e35244c826030_1517073_d11ed8b34914f40d8a57baa2d3a25c00.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;254&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      iManta shown in “Feng Ru Cup” Science and Technology Festival (Beijing, China)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Energy-efficient&lt;/li&gt;
+&lt;li&gt;Noiseless&lt;/li&gt;
+&lt;li&gt;Suitable for indoor environment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Harmless for human-robot interaction&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-interaction-between-humans-and-imanta&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The interaction between humans and iManta&#34; srcset=&#34;
+               /project/imanta/ma5_hu39529e8e5997a337135e01500b89ea22_2678758_083e34a2bc5906dfe4e4c30fdbb690d2.webp 400w,
+               /project/imanta/ma5_hu39529e8e5997a337135e01500b89ea22_2678758_cf75ca7723d2e71696f4620d81c15ff2.webp 760w,
+               /project/imanta/ma5_hu39529e8e5997a337135e01500b89ea22_2678758_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma5_hu39529e8e5997a337135e01500b89ea22_2678758_083e34a2bc5906dfe4e4c30fdbb690d2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;349&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The interaction between humans and iManta
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;future-applications&#34;&gt;Future Applications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Interactable and dynamic advertising media&lt;/li&gt;
+&lt;li&gt;Robot therapy (as comfort pets)&lt;/li&gt;
+&lt;li&gt;Long-time surveillance and event observation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/imanta/ma6_hu434bdedbc7818972e90bea0d656b3d51_728902_46411f2c076e2de7c38414f711e2304e.webp 400w,
+               /project/imanta/ma6_hu434bdedbc7818972e90bea0d656b3d51_728902_46d0412f20397c749aba49984f20fde8.webp 760w,
+               /project/imanta/ma6_hu434bdedbc7818972e90bea0d656b3d51_728902_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma6_hu434bdedbc7818972e90bea0d656b3d51_728902_46411f2c076e2de7c38414f711e2304e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-application-as-dynamic-advertising-media&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The application as dynamic advertising media&#34; srcset=&#34;
+               /project/imanta/ma7_hueefebed8737d2ab97431e185de79669d_2121451_f5c34c145e50835a5582f31fc8132584.webp 400w,
+               /project/imanta/ma7_hueefebed8737d2ab97431e185de79669d_2121451_f478f16b982069303dfeb87256470db5.webp 760w,
+               /project/imanta/ma7_hueefebed8737d2ab97431e185de79669d_2121451_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma7_hueefebed8737d2ab97431e185de79669d_2121451_f5c34c145e50835a5582f31fc8132584.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;502&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The application as dynamic advertising media
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/imanta/ma8_hu0052b7d8ef6505302a280a9867b1d2f8_1002294_66e36c3569b58ce448ab7971a95ae02a.webp 400w,
+               /project/imanta/ma8_hu0052b7d8ef6505302a280a9867b1d2f8_1002294_1cc2de9dcda2c73dce1e6a3e8ba1f817.webp 760w,
+               /project/imanta/ma8_hu0052b7d8ef6505302a280a9867b1d2f8_1002294_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma8_hu0052b7d8ef6505302a280a9867b1d2f8_1002294_66e36c3569b58ce448ab7971a95ae02a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;414&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-application-as-comfort-pets&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The application as comfort pets&#34; srcset=&#34;
+               /project/imanta/ma10_hu357f5e642310c82889a8e333dccc15c2_953939_f8d504495298b404a107464fc826eefa.webp 400w,
+               /project/imanta/ma10_hu357f5e642310c82889a8e333dccc15c2_953939_98c128be0d2a2d0e383d8c026de2f4b2.webp 760w,
+               /project/imanta/ma10_hu357f5e642310c82889a8e333dccc15c2_953939_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma10_hu357f5e642310c82889a8e333dccc15c2_953939_f8d504495298b404a107464fc826eefa.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The application as comfort pets
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-application-for-surveillance-and-event-observation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The application for surveillance and event observation&#34; srcset=&#34;
+               /project/imanta/ma9_hu4e5b268af132319ad8a5dc7b75d61fe1_2212482_44c4a876fe4d414569f7f041c8193c25.webp 400w,
+               /project/imanta/ma9_hu4e5b268af132319ad8a5dc7b75d61fe1_2212482_e3764eb0279d182d02b1daf2f633927b.webp 760w,
+               /project/imanta/ma9_hu4e5b268af132319ad8a5dc7b75d61fe1_2212482_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/ma9_hu4e5b268af132319ad8a5dc7b75d61fe1_2212482_44c4a876fe4d414569f7f041c8193c25.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;497&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The application for surveillance and event observation
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_36154b6daa2d27081a0765b4ad436c42.webp 400w,
+               /project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_2fec19e8ed630e020216aa3c7ab68165.webp 760w,
+               /project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/imanta/group_hu3c059915d182fd95be66963e11dd0e80_265165_36154b6daa2d27081a0765b4ad436c42.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;105&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terrain-adaptive Aerial Robot with Legged Landing Gear</title>
+      <link>https://mingyangxu.netlify.app/project/terrain-adaptive-aerial-robot/</link>
+      <pubDate>Sun, 20 May 2018 04:12:23 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/project/terrain-adaptive-aerial-robot/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Members:&lt;/strong&gt; Mingyang Xu, Yunkai Qi, Jin Zhu, Wanhe An, Dada Hu, Jiaxuan Zhang, Shiqi Sun&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Tianmiao Wang&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/terrain-adaptive-aerial-robot/la0_hu58fc55ce737ddd39e288094ee9b7622f_3818586_b6579eb17eadfbbe1e1e0473777a6e27.webp 400w,
+               /project/terrain-adaptive-aerial-robot/la0_hu58fc55ce737ddd39e288094ee9b7622f_3818586_c28f2812607b50e45c1107958516afbb.webp 760w,
+               /project/terrain-adaptive-aerial-robot/la0_hu58fc55ce737ddd39e288094ee9b7622f_3818586_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/terrain-adaptive-aerial-robot/la0_hu58fc55ce737ddd39e288094ee9b7622f_3818586_b6579eb17eadfbbe1e1e0473777a6e27.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;391&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Vertical take-off and landing aircrafts (VTOLs) are widely used in transport and rescue tasks because of their ability to perform vertical takeoffs and landings. &lt;strong&gt;However, the possibility of off-field landings is severely limited by non-flat landing areas. Some example landing areas include great slopes, rocky grounds, and stairs.&lt;/strong&gt; VTOL-type aerial robots that use conventional skids or landing wheels have poor ability to adapt to uneven and steep terrain, causing safety problems and economic losses. Aiming at the above limitations, we proposed a novel terrain-adaptive aerial robot. This aerial robot features robotic landing gear, which consists of four legs. Based on the force, attitude, and height data collected by the sensors, the landing gear could be automatically adjusted to conform closely with the ground, thus &lt;strong&gt;keeping the robot horizontal and balanced during landing&lt;/strong&gt;. Finally, the laboratory experiment test and outfield flight test have been done to verify the results of the design and theory modelling.&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/uX7zKS1Cb6I&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-overview-of-developed-prototypes&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overview of developed prototypes&#34; srcset=&#34;
+               /project/terrain-adaptive-aerial-robot/la1_hu5e01a03e094f69a818aaa342ee05f2d5_4859023_8d61c51fe5bbdf514ec6a5b4a8121dde.webp 400w,
+               /project/terrain-adaptive-aerial-robot/la1_hu5e01a03e094f69a818aaa342ee05f2d5_4859023_a8eebb740faee4f07e23ab0b7c54dc77.webp 760w,
+               /project/terrain-adaptive-aerial-robot/la1_hu5e01a03e094f69a818aaa342ee05f2d5_4859023_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/terrain-adaptive-aerial-robot/la1_hu5e01a03e094f69a818aaa342ee05f2d5_4859023_8d61c51fe5bbdf514ec6a5b4a8121dde.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;474&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Overview of developed prototypes
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-process-of-the-terrain-adaptive-landing-mode&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Process of the terrain-adaptive landing mode&#34; srcset=&#34;
+               /project/terrain-adaptive-aerial-robot/la2_hu6557e5424d72559578666f56dbc99953_1138255_3a176cc15e907f79b4848bac300506bb.webp 400w,
+               /project/terrain-adaptive-aerial-robot/la2_hu6557e5424d72559578666f56dbc99953_1138255_f07a90e0e49492cc3ef1bd8d5735b3ac.webp 760w,
+               /project/terrain-adaptive-aerial-robot/la2_hu6557e5424d72559578666f56dbc99953_1138255_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/terrain-adaptive-aerial-robot/la2_hu6557e5424d72559578666f56dbc99953_1138255_3a176cc15e907f79b4848bac300506bb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;502&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Process of the terrain-adaptive landing mode
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/terrain-adaptive-aerial-robot/group_hu3c059915d182fd95be66963e11dd0e80_265165_36154b6daa2d27081a0765b4ad436c42.webp 400w,
+               /project/terrain-adaptive-aerial-robot/group_hu3c059915d182fd95be66963e11dd0e80_265165_2fec19e8ed630e020216aa3c7ab68165.webp 760w,
+               /project/terrain-adaptive-aerial-robot/group_hu3c059915d182fd95be66963e11dd0e80_265165_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mingyangxu.netlify.app/project/terrain-adaptive-aerial-robot/group_hu3c059915d182fd95be66963e11dd0e80_265165_36154b6daa2d27081a0765b4ad436c42.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;105&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quadrotor Based Launch System for Fixed-wing Aircraft</title>
+      <link>https://mingyangxu.netlify.app/project/quadrotor-based-launch-system-for-fixed-wing-aircraft/</link>
+      <pubDate>Thu, 06 Jul 2017 04:19:41 +0000</pubDate>
+      <guid>https://mingyangxu.netlify.app/project/quadrotor-based-launch-system-for-fixed-wing-aircraft/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Missions for long-endurance fixed-wing aircraft have been limited by an inability to take off from constricted spaces. Although vertical take-off and landing (VTOL) aircrafts can hover, take off, and land vertically without relying on a runway, they usually present less aerodynamic efficiency, duration of flight, and carrying capacity because they carry additional motors, batteries and propellers. Therefore, &lt;strong&gt;we developed a multicopter-based launch system for fix-wing aircrafts to provide them with a VTOL capability.&lt;/strong&gt; The fix-wing aircraft to be launched is attached to the underside of the system by the ground crew. The launch system then carries the attached aircraft up into the air. Once at a sufficient altitude, the launch system revs its engines up to a certain speed and then releases the attached aircraft by ejection system. After the release, the launch system returns to the ground crew. Finally, the aircraft can be recovered by a parachute after conducting the task. &lt;strong&gt;The multicopter-based launch system can enhance the capability of fix-wing aircrafts to take off from complex terrain.&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;V﻿ideo&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/xFF3N7h-STA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
